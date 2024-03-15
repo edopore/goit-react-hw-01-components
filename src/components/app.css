@@ -7,6 +7,9 @@
   --alice-blue: #e8edf2ff;
   --text-label: #bbc3cb;
   --antiflash-white: #eef2f6ff;
+  --moonstone: #00bdd5ff;
+  --light-blue: #c6dfe3ff;
+  --table-bg: #ecf1f4;
 }
 .app {
   background-color: var(--french-gray);

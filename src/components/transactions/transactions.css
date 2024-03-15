@@ -1,0 +1,19 @@
+.transaction-history {
+  background: var(--antiflash-white);
+  width: 450px;
+}
+tr {
+  border: 1px solid var(--light-blue);
+}
+th {
+  background-color: var(--moonstone);
+  text-transform: uppercase;
+}
+tr:nth-child(odd) {
+  background-color: var(--white);
+}
+th,
+td {
+  padding: 15px;
+  text-transform: capitalize;
+}
