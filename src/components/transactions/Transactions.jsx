@@ -1,10 +1,8 @@
 import './transactions.css';
 
 export default function Transactions(props) {
-  console.log(props);
   return (
     <div>
-      Transactions
       <table className="transaction-history">
         <thead>
           <tr>
