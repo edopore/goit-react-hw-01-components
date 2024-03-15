@@ -8,6 +8,7 @@ tr {
 th {
   background-color: var(--moonstone);
   text-transform: uppercase;
+  color: white;
 }
 tr:nth-child(odd) {
   background-color: var(--white);
@@ -15,5 +16,7 @@ tr:nth-child(odd) {
 th,
 td {
   padding: 15px;
+}
+td {
   text-transform: capitalize;
 }
